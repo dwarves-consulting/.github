@@ -1,8 +1,6 @@
 ## Dwarves Consulting
 
-The client engagement arm of [Dwarves Foundation](https://d.foundation), a software firm in Vietnam building and scaling products for startups and enterprises since 2013.
-
-This org holds proposals, prototypes and delivery work for our clients. Engagement repositories are private.
+The consulting arm of [Dwarves Foundation](https://d.foundation), a software firm in Vietnam building products since 2013. Work here is private.
 
 | | |
 |---|---|
